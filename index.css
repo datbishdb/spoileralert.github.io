@@ -12,11 +12,4 @@ body{
 nav li{
   display:block;
 }
-footer{
-  color:white;
-  background-color: black;
-  text-align: center;
-  font-size: 36px;
-  font-style: 'Fredericka the Great';
-font-family: 'Fredericka the Great', cursive;
-}
+
