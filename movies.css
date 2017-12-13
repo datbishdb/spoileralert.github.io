@@ -13,5 +13,6 @@ nav li{
   display:block;
 }
 section2{
-spoilerAlert('spoiler, .spoiler', {max: 10, partial: 4});
+spoiler.js
+  spoilerAlert('spoiler, .spoiler', {max: 10, partial: 4});
 }
