@@ -13,6 +13,5 @@ nav li{
   display:block;
 }
 section2{
-      blur(5px),
-      hintText: 'Click to reveal completely;
+      blur(5px);
 }
