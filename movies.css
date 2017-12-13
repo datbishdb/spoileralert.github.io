@@ -13,9 +13,8 @@ nav li{
   display:block;
 }
 section2{
-      blur(5px);
+      blur(5px),
       max: 4,
       partial: 2,
-      hintText: 'Click to reveal completely'
-    };
+      hintText: 'Click to reveal completely;
 }
