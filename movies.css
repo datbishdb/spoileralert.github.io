@@ -13,5 +13,8 @@ nav li{
   display:block;
 }
 section2{
-      blur(5px);
+      .blurry-text {
+   color: transparent;
+   text-shadow: 0 0 5px rgba(0,0,0,0.5);
+
 }
