@@ -13,9 +13,7 @@ nav li{
   display:block;
 }
 section2{
-window.spoilerAlert = function(selector, opts) {
-    var elements = document.querySelectorAll(selector);
-    var defaults = {
+      blur(5px);
       max: 4,
       partial: 2,
       hintText: 'Click to reveal completely'
