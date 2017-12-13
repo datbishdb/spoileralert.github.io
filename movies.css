@@ -13,6 +13,11 @@ nav li{
   display:block;
 }
 section2{
-spoiler.js
-  spoilerAlert('spoiler, .spoiler', {max: 10, partial: 4});
+window.spoilerAlert = function(selector, opts) {
+    var elements = document.querySelectorAll(selector);
+    var defaults = {
+      max: 4,
+      partial: 2,
+      hintText: 'Click to reveal completely'
+    };
 }
