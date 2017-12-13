@@ -14,7 +14,5 @@ nav li{
 }
 section2{
       blur(5px),
-      max: 4,
-      partial: 2,
       hintText: 'Click to reveal completely;
 }
